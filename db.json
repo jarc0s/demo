@@ -5,34 +5,34 @@
         "name": "Las Luigui Hamburguesas",
         "geometry": {
           "location": {
-            "lat": "19.298234909899175",
-            "lng": "-99.12494972843635"
+            "lat": 19.298234909899175,
+            "lng": -99.12494972843635
           }
         },
         "place_id" : "ChIJyWEHuEmuEmsRm9hTkapTCrk",
         "photos" : "https://lh5.googleusercontent.com/p/AF1QipP1Wsq6Le_YsliXoCe2wvbIYyHXAaCSKeCDvsuT=w408-h306-k-no"
       },
        {
-        "name": "Las Luigui Hamburguesas",
+        "name": "Ranch Grill & Burger",
         "geometry": {
           "location": {
-            "lat": "19.298234909899175",
-            "lng": "-99.12494972843635"
+            "lat": 19.298558941409436,
+            "lng": -99.13078621514691
           }
         },
         "place_id" : "ChIJyWEHuEmuEmsRm9hTkapTCrk",
-        "photos" : "https://lh5.googleusercontent.com/p/AF1QipP1Wsq6Le_YsliXoCe2wvbIYyHXAaCSKeCDvsuT=w408-h306-k-no"
+        "photos" : "https://lh5.googleusercontent.com/p/AF1QipONEMRonC0fxmlA9i5BC6L3m15yss2SI3Dt_7zm=w426-h240-k-no"
       },
        {
-        "name": "Las Luigui Hamburguesas",
+        "name": "Rubens Hamburgers Acoxpa",
         "geometry": {
           "location": {
-            "lat": "19.298234909899175",
-            "lng": "-99.12494972843635"
+            "lat": 19.296290707362584,
+            "lng": -99.13321093205244
           }
         },
         "place_id" : "ChIJyWEHuEmuEmsRm9hTkapTCrk",
-        "photos" : "https://lh5.googleusercontent.com/p/AF1QipP1Wsq6Le_YsliXoCe2wvbIYyHXAaCSKeCDvsuT=w408-h306-k-no"
+        "photos" : "https://lh5.googleusercontent.com/p/AF1QipPyUZLNdgmGKt43YAORTBrJIgp3Ao8frNjeGI2L=w408-h306-k-no"
       }
     ]
   }
