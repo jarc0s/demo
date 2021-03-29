@@ -1,24 +1,39 @@
 {
-  "hamburguesas": [
-    {
-      "placeId": "123456"
-    },
-    {
-      "placeId": "123456"
-    },
-    {
-      "placeId": "123456"
-    }
-  ], 
-  "pizzas": [
-    {
-      "placeId": "987654"
-    },
-    {
-      "placeId": "987654"
-    },
-    {
-      "placeId": "987654"
-    }
-  ]
+  "hamburguesas": {
+    "results": [
+      {
+        "name": "Las Luigui Hamburguesas",
+        "geometry": {
+          "location": {
+            "lat": "19.298234909899175",
+            "lng": "-99.12494972843635"
+          }
+        },
+        "place_id" : "ChIJyWEHuEmuEmsRm9hTkapTCrk",
+        "photos" : "https://lh5.googleusercontent.com/p/AF1QipP1Wsq6Le_YsliXoCe2wvbIYyHXAaCSKeCDvsuT=w408-h306-k-no"
+      },
+       {
+        "name": "Las Luigui Hamburguesas",
+        "geometry": {
+          "location": {
+            "lat": "19.298234909899175",
+            "lng": "-99.12494972843635"
+          }
+        },
+        "place_id" : "ChIJyWEHuEmuEmsRm9hTkapTCrk",
+        "photos" : "https://lh5.googleusercontent.com/p/AF1QipP1Wsq6Le_YsliXoCe2wvbIYyHXAaCSKeCDvsuT=w408-h306-k-no"
+      },
+       {
+        "name": "Las Luigui Hamburguesas",
+        "geometry": {
+          "location": {
+            "lat": "19.298234909899175",
+            "lng": "-99.12494972843635"
+          }
+        },
+        "place_id" : "ChIJyWEHuEmuEmsRm9hTkapTCrk",
+        "photos" : "https://lh5.googleusercontent.com/p/AF1QipP1Wsq6Le_YsliXoCe2wvbIYyHXAaCSKeCDvsuT=w408-h306-k-no"
+      }
+    ]
+  }
 }
